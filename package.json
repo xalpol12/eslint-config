@@ -1,5 +1,5 @@
 {
-  "name": "@your-name/eslint-config",
+  "name": "@xalpol12/eslint-config",
   "version": "1.0.0",
   "main": "index.js",
   "description": "Custom ESLint config without Prettier",
@@ -8,10 +8,10 @@
     "eslint-config"
   ],
   "peerDependencies": {
-    "eslint": "^8.57.0",
-    "@typescript-eslint/eslint-plugin": "^7.0.0",
-    "@typescript-eslint/parser": "^7.0.0",
-    "@angular-eslint/eslint-plugin": "^17.3.0",
+    "eslint": "^9.0.0",
+    "@typescript-eslint/eslint-plugin": "^7.0.0 || ^8.0.0",
+    "@typescript-eslint/parser": "^8.49.0",
+    "@angular-eslint/eslint-plugin": "^21.0.0",
     "@stylistic/eslint-plugin": "^5.0.0",
     "eslint-plugin-rxjs": "^5.0.3"
   },
